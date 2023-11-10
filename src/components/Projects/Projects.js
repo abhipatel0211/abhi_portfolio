@@ -59,7 +59,7 @@ function Projects() {
               imgPath={Tour}
               isBlog={false}
               title="Tour Management Website with Admin dashboard"
-              description="Our Tour Management Website with Admin Dashboard stands out with a unique feature—Street View integration. This distinctive element enhances user engagement by providing an immersive experience, allowing potential travelers to explore destinations through a street-level perspective before making bookings. Coupled with the streamlined interface and admin tools, this addition sets our platform apart, offering a novel and captivating way for users to envision their upcoming adventures."
+              description="Our Tour Management Website, featuring an intuitive interface and admin dashboard, sets itself apart with a unique Street View integration. This feature provides users with an immersive preview of destinations, offering a distinct and engaging experience in addition to streamlined tour planning."
               ghLink="https://github.com/abhipatel0211/Tour-Management-System.git"
             />
           </Col>
