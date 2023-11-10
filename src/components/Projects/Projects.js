@@ -58,10 +58,9 @@ function Projects() {
             <ProjectCard
               imgPath={connection}
               isBlog={false}
-              title="dashboard Connection page"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/abhipatel0211/Dashboard.git"
-              demoLink="https://dashboard-abhi.vercel.app/"
+              title="Tour Management Website with Admin dashboard"
+              description="Our Tour Management Website with Admin Dashboard is a streamlined platform for efficient tour planning. Users navigate a simple interface to explore and book tours, while administrators manage operations through a centralized dashboard. Real-time updates and a secure payment system ensure a smooth user experience. This project is tailored for travel agencies, offering essential features without unnecessary complexities."
+              ghLink="https://github.com/abhipatel0211/Tour-Management-System.git"
             />
           </Col>
 
