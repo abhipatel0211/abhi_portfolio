@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import connection from "../../Assets/Projects/connection.png";
+import Tour from "../../Assets/Projects/TourManage.png";
 import pizza from "../../Assets/Projects/pizza.png";
 import dashboard from "../../Assets/Projects/dashboard.png";
 import ChatWhiz from "../../Assets/Projects/ChatWhiz.png";
@@ -56,10 +56,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={connection}
+              imgPath={Tour}
               isBlog={false}
               title="Tour Management Website with Admin dashboard"
-              description="Our Tour Management Website with Admin Dashboard is a streamlined platform for efficient tour planning. Users navigate a simple interface to explore and book tours, while administrators manage operations through a centralized dashboard. Real-time updates and a secure payment system ensure a smooth user experience. This project is tailored for travel agencies, offering essential features without unnecessary complexities."
+              description="Our Tour Management Website with Admin Dashboard stands out with a unique feature—Street View integration. This distinctive element enhances user engagement by providing an immersive experience, allowing potential travelers to explore destinations through a street-level perspective before making bookings. Coupled with the streamlined interface and admin tools, this addition sets our platform apart, offering a novel and captivating way for users to envision their upcoming adventures."
               ghLink="https://github.com/abhipatel0211/Tour-Management-System.git"
             />
           </Col>
