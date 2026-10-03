@@ -5,13 +5,6 @@ import Container from "react-bootstrap/Container";
 import logo from "../Assets/logo_1.png";
 import { Link } from "react-router-dom";
 import { Link as Scroll } from "react-scroll";
-import {
-  AiOutlineHome,
-  AiOutlineFundProjectionScreen,
-  AiOutlineUser,
-} from "react-icons/ai";
-
-import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);

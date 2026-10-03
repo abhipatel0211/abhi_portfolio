@@ -1,15 +1,4 @@
-import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
-import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-  DiJava,
-} from "react-icons/di";
 import C from "../../Icons/c.png";
 import Cpp from "../../Icons/C++.png";
 import html from "../../Icons/html.png";
@@ -21,14 +10,6 @@ import Next from "../../Icons/nextjs_final.png";
 import Mongo from "../../Icons/mongo.png";
 import Github from "../../Icons/github.png";
 import Node from "../../Icons/node.png";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-} from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (

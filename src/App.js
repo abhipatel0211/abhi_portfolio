@@ -8,9 +8,6 @@ import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import {
   BrowserRouter as Router,
-  Route,
-  Routes,
-  Navigate,
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
